@@ -13,7 +13,7 @@ cSDN博客参考：
 - [[网络安全自学篇] 七十四.APT攻击检测溯源与常见APT组织的攻击案例](https://blog.csdn.net/Eastmount/article/details/106009460)
 - [[网络安全自学篇] 三十五.恶意代码攻击溯源及恶意样本分析](https://blog.csdn.net/Eastmount/article/details/103703819)
 - [[网络安全自学篇] 二十四.基于机器学习的入侵检测和攻击识别——以KDD CUP99数据集为例](https://blog.csdn.net/Eastmount/article/details/103189405)
-- []()
+- [[网络安全自学篇] 二十三.基于机器学习的恶意请求识别及安全领域中的机器学习](https://blog.csdn.net/Eastmount/article/details/102852458)
 
 
 ---
