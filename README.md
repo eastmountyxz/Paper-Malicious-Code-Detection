@@ -8,7 +8,8 @@
 
 cSDN博客参考：
 - [[网络安全自学篇] 九十.远控木马详解及APT攻击中的远控](https://blog.csdn.net/Eastmount/article/details/107449094)
-
+- [[网络安全自学篇] 八十八.基于机器学习的恶意代码检测技术详解](https://blog.csdn.net/Eastmount/article/details/107420755)
+- [[网络安全自学篇] 八十七.恶意代码检测技术详解及总结](https://blog.csdn.net/Eastmount/article/details/106975996)
 
 ---
 
